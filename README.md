@@ -144,3 +144,15 @@ install.packages(c(
   "corrplot"
 ))
 
+▶️ How to Run
+1) Clone this repository
+git clone https://github.com/<your-username>/Exploratory-Data-Analysis-with-R.git
+
+2) Go inside the project folder
+cd Exploratory-Data-Analysis-with-R
+
+3) Run week-wise scripts
+
+Example:
+source("Week_01_Introduction_to_R/script.R")
+
