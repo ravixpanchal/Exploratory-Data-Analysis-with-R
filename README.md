@@ -1,4 +1,4 @@
-# Exploratory Data Analysis with R 📊✨
+# Exploratory Data Analysis with R ✨
 
 Welcome to **Exploratory Data Analysis (EDA) with R** — a complete course-based repository covering **R fundamentals, data preparation, EDA concepts, statistical measures, visualization (base R + ggplot2), correlation, linear models, text data analysis**, and **multivariate EDA**.
 
@@ -6,94 +6,94 @@ This repository is structured **week-wise (Week 1 to Week 12)** with clear expla
 
 ---
 
-## 🚀 What You Will Learn
+## What You Will Learn
 
-✅ R basics & important commands  
-✅ Data Preparation & Cleaning  
-✅ Frequency distribution & CDF  
-✅ 1D graphs using base R  
-✅ Advanced visualization using **ggplot2**  
-✅ Measures of central tendency & variation  
-✅ Moments, skewness & kurtosis  
-✅ Scaling of data & association visualizations  
-✅ Correlation (Pearson / Spearman / Rank correlation)  
-✅ Association of discrete variables  
-✅ Linear models (Regression basics)  
-✅ Text data handling + text analysis  
-✅ Sampling (Simple Random Sampling)  
-✅ Multivariate exploratory data analysis  
+- R basics and essential commands
+- Data preparation and cleaning
+- Frequency distribution and CDF
+- One-dimensional graphs using base R
+- Data visualization using **ggplot2**
+- Measures of central tendency and variation
+- Moments, skewness, and kurtosis
+- Scaling of data and association visualizations
+- Correlation (Pearson, Spearman, Rank correlation)
+- Association of discrete variables
+- Linear models (Regression basics)
+- Text data handling and text analysis
+- Sampling (Simple Random Sampling)
+- Multivariate exploratory data analysis
 
 ---
 
-## 🧠 Course Roadmap (Week-wise)
+## Course Roadmap (Week-wise)
 
-### ✅ Week 1: Introduction to R
-- R software setup & interface
+### Week 1: Introduction to R
+- R software setup and interface
 - Basic commands
 - Data types, variables, vectors, lists
 - Basic input/output
 
-### ✅ Week 2: Data Preparation + Basic EDA
+### Week 2: Data Preparation and Basic EDA
 - Import/export datasets (CSV, Excel)
-- Cleaning missing values
-- Frequency & frequency distribution
+- Handling missing values
+- Frequency and frequency distribution
 - CDF (Cumulative Distribution Function)
 - EDA basics using R
 
-### ✅ Week 3: Graphical Procedures (1D Graphs - Base R)
+### Week 3: Graphical Procedures (1D Graphs - Base R)
 - Histogram
 - Boxplot
 - Barplot
 - Pie chart
-- Stem & leaf plot
+- Stem-and-leaf plot
 
-### ✅ Week 4: Graphical Procedures using `ggplot2`
+### Week 4: Graphical Procedures using `ggplot2`
 - ggplot2 basics
-- histograms / bar charts
-- box plot / violin plot
-- themes, labels, colors
-- multiple plots
+- Histograms and bar charts
+- Box plot and violin plot
+- Themes, labels
+- Multiple plots
 
-### ✅ Week 5: Measures of Central Tendency
-- Mean, Median, Mode
+### Week 5: Measures of Central Tendency
+- Mean, median, mode
 - Weighted mean
 - Summary using R functions
 
-### ✅ Week 6: Measures of Variation
+### Week 6: Measures of Variation
 - Range, variance, standard deviation
-- Quartiles & IQR
+- Quartiles and IQR
 - Coefficient of variation
 
-### ✅ Week 7: Moments
+### Week 7: Moments
 - Raw moments
 - Central moments
-- Use in R
+- Implementation in R
 
-### ✅ Week 8: Skewness, Kurtosis + Scaling of Data
+### Week 8: Skewness, Kurtosis, and Scaling of Data
 - Skewness and interpretation
 - Kurtosis and interpretation
-- Standardization / Normalization
+- Standardization and normalization
 - Graphs for association of variables
 
-### ✅ Week 9: Association of Variables (Continuous)
+### Week 9: Association of Variables (Continuous)
 - Scatter plots
 - Covariance
 - Correlation coefficients (Pearson)
 - Correlation matrix in R
 
-### ✅ Week 10: Rank correlation + Discrete Variables
+### Week 10: Rank Correlation and Discrete Variables
 - Spearman correlation
 - Kendall correlation
 - Association of discrete variables
 - Contingency tables
 
-### ✅ Week 11: Linear Models + Text Handling
+### Week 11: Linear Models and Text Handling
 - Linear regression basics
 - `lm()` function
-- Model summary, interpretation
+- Model summary and interpretation
 - Text data handling in R
 
-### ✅ Week 12: Text Analysis + Sampling + Multivariate EDA
+### Week 12: Text Analysis, Sampling, and Multivariate EDA
 - Text preprocessing
 - Tokenization basics
 - Sampling methods
@@ -102,7 +102,7 @@ This repository is structured **week-wise (Week 1 to Week 12)** with clear expla
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```bash
 Exploratory-Data-Analysis-with-R/
