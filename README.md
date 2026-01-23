@@ -127,6 +127,11 @@ Exploratory-Data-Analysis-with-R/
 └── requirements.md
 
 
+## 🛠 Requirements
+
+Before running the code, install the required R packages:
+
+```r
 install.packages(c(
   "ggplot2",
   "dplyr",
@@ -137,8 +142,3 @@ install.packages(c(
   "caret",
   "corrplot"
 ))
-
-
-git clone https://github.com/<your-username>/Exploratory-Data-Analysis-with-R.git
-
-source("Week_01_Introduction_to_R/script.R")
