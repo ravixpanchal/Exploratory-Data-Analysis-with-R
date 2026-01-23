@@ -125,3 +125,22 @@ Exploratory-Data-Analysis-with-R/
 ├── cheatsheets/
 ├── README.md
 └── requirements.md
+
+---
+
+## 🛠 Requirements
+
+Before running the code, install the required R packages:
+
+```r
+install.packages(c(
+  "ggplot2",
+  "dplyr",
+  "tidyr",
+  "readr",
+  "stringr",
+  "lubridate",
+  "caret",
+  "corrplot"
+))
+
