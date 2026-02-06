@@ -156,3 +156,6 @@ cd Exploratory-Data-Analysis-with-R
 Example:
 source("Week_01_Introduction_to_R/script.R")
 
+```
+⭐ If you find this helpful, feel free to star the repository!
+
