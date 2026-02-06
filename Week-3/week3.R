@@ -199,3 +199,7 @@ kernel='triangular'))
 defective
 stem(defective, scale = 2)
  hist(defective)
+
+
+
+
