@@ -25,3 +25,7 @@ data=c(2, 1, 2, 1, 3, 5, 5, 3, 3, 1, 5, 1, 4, 2, 2, 1, 4, 2, 2, 2, 4, 5, 1, 4, 1
 data
 weighted.mean(c(1,2,3,4,5),as.numeric(table(data)))
 mean(data)
+
+#Question-5(d)
+#Question-6(a)
+#Question-7(b)
